@@ -2,8 +2,11 @@ print("Welcome to Python Pizza Deliveries!")
 size = input("What size pizza do you want? S, M or L: ").upper()
 extra_pepperoni = input("Do you want pepperoni on your pizza? Y or N: ").upper()
 extra_cheese = input("Do you want extra cheese? Y or N: ").upper()
+
 s = 15
+
 m = 20
+
 l = 25 
 
 pepperoni = 5
