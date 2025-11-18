@@ -4,21 +4,29 @@ This repository contains all the **Python projects** I create while learning fro
 Each folder represents a different mini-project or concept I’ve practiced during my learning journey.
 
 ## 📘 About This Repository
-  - Focused on **hands-on learning** through real Python projects  
-  - Covers beginner to intermediate topics such as:
-  - Variables, loops, and conditionals  
-  - Functions and data structures  
-  - File handling and error management  
-  - Web scraping and automation (coming soon!)  
-  - Basic game logic and GUI apps  
+
+- Focused on **hands-on learning** through real Python projects
+- Covers beginner to intermediate topics such as:
+- Variables, loops, and conditionals
+- Functions and data structures
+- File handling and error management
+- Web scraping and automation (coming soon!)
+- Basic game logic and GUI apps
 
 ## 🧩 Example Projects
+
 | Project | Description |
 
-| **BMI Calculator** | Calculates your Body Mass Index (BMI) and classifies your weight category. |
-| *(More projects will be added soon)* | Stay tuned for more as I progress through the course! |
+| #                                    | Project                      | Description                                                                         |
+| ------------------------------------ | ---------------------------- | ----------------------------------------------------------------------------------- |
+| **1**                                | **BMI Calculator**           | Calculates BMI and automatically handles height input in meters or centimeters.     |
+| **2**                                | **Pizza Order Program**      | A simple billing system where users choose pizza size, pepperoni, and extra cheese. |
+| **3**                                | **Treasure Island Game**     | A text-based adventure game using nested conditionals and user choices.             |
+| **4**                                | **Rock–Paper–Scissors Game** | Player vs Computer game with ASCII art and full win/lose logic.                     |
+| _(More projects will be added soon)_ |                              | Stay tuned for more as I progress through the course!                               |
 
 ## 🚀 Purpose
+
 This repo tracks my **progress and practice** as I learn Python step by step.  
 It’s a collection of small but meaningful projects to build real coding confidence.
 
@@ -26,9 +34,7 @@ It’s a collection of small but meaningful projects to build real coding confid
 
 1. Clone this repository:  
    https://github.com/UmairJailani/Python-Learning-Projects/tree/main
-   
 2. Open a project folder (e.g., bmi-calculator)
-   
 3. Run the Python file in your terminal or IDE:
    python main.py
 
