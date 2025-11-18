@@ -3,10 +3,13 @@
 This repository contains all the **Python projects** I create while learning from the **100 Days of Code: The Complete Python Pro Bootcamp by Dr. Angela Yu**.  
 Each folder represents a different mini-project or concept I’ve practiced during my learning journey.
 
+---
+
 ## 📘 About This Repository
 
 - Focused on **hands-on learning** through real Python projects
 - Covers beginner to intermediate topics such as:
+  <<<<<<< HEAD
 - Variables, loops, and conditionals
 - Functions and data structures
 - File handling and error management
@@ -25,19 +28,32 @@ Each folder represents a different mini-project or concept I’ve practiced duri
 | **4**                                | **Rock–Paper–Scissors Game** | Player vs Computer game with ASCII art and full win/lose logic.                     |
 | _(More projects will be added soon)_ |                              | Stay tuned for more as I progress through the course!                               |
 
+=======
+
 ## 🚀 Purpose
 
 This repo tracks my **progress and practice** as I learn Python step by step.  
 It’s a collection of small but meaningful projects to build real coding confidence.
 
+---
+
 ## 🧠 How to Run a Project
+
+<<<<<<< HEAD
 
 1. Clone this repository:  
    https://github.com/UmairJailani/Python-Learning-Projects/tree/main
-2. Open a project folder (e.g., bmi-calculator)
-3. Run the Python file in your terminal or IDE:
-   python main.py
+2. # Open a project folder (e.g., bmi-calculator)
+3. Clone this repository:
+   https://github.com/UmairJailani/Python-Learning-Projects
+4. Open a project folder (e.g., `bmi-calculator`, `pizza-order`, `treasure-island`)
+   > > > > > > > 62966425bd8dc1e2c09c9ef5337096174392ceff
+5. Run the Python file in your terminal or IDE:
 
-## 📅 Learning Source
+```bash
+python main.py
 
-**Course:** [100 Days of Code: The Complete Python Pro Bootcamp by Dr. Angela Yu](https://www.udemy.com/course/100-days-of-code/)
+📅 Learning Source
+
+Course: 100 Days of Code: The Complete Python Pro Bootcamp by Dr. Angela Yu
+```
