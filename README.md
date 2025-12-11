@@ -26,6 +26,7 @@ Each folder represents a different mini-project or concept I’ve practiced duri
 | **2**                                | **Pizza Order Program**      | A simple billing system where users choose pizza size, pepperoni, and extra cheese. |
 | **3**                                | **Treasure Island Game**     | A text-based adventure game using nested conditionals and user choices.             |
 | **4**                                | **Rock–Paper–Scissors Game** | Player vs Computer game with ASCII art and full win/lose logic.                     |
+| **5**                                | **PyPassword Generator**     | Generates strong, random passwords with customizable letters, numbers, and symbols. |
 | _(More projects will be added soon)_ |                              | Stay tuned for more as I progress through the course!                               |
 
 =======
@@ -50,10 +51,6 @@ It’s a collection of small but meaningful projects to build real coding confid
    > > > > > > > 62966425bd8dc1e2c09c9ef5337096174392ceff
 5. Run the Python file in your terminal or IDE:
 
-```bash
-python main.py
-
 📅 Learning Source
 
 Course: 100 Days of Code: The Complete Python Pro Bootcamp by Dr. Angela Yu
-```
