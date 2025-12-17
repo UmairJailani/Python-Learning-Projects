@@ -9,11 +9,9 @@ Each folder represents a different mini-project or concept I’ve practiced duri
 
 - Focused on **hands-on learning** through real Python projects
 - Covers beginner to intermediate topics such as:
-- Variables, loops, and conditionals
-- Functions and data structures
-- File handling and error management
-- Web scraping and automation (coming soon!)
-- Basic game logic and GUI apps
+  - Variables, loops, and conditionals
+  - Functions and data structures
+  - File handling and error management
 
 ---
 
@@ -41,13 +39,11 @@ It’s a collection of small but meaningful projects to build real coding confid
 
 ## 🧠 How to Run a Project
 
-1. Clone this repository:  
-   https://github.com/UmairJailani/Python-Learning-Projects/tree/main
-2. Open a project folder (e.g., bmi-calculator)
-3. Clone this repository:
+1. Open a project folder (e.g., bmi-calculator)
+2. Clone this repository:
    https://github.com/UmairJailani/Python-Learning-Projects
-4. Open a project folder (e.g., `bmi-calculator`, `pizza-order`, `treasure-island`)
-5. Run the Python file in your terminal or IDE:
+3. Open a project folder (e.g., `bmi-calculator`, `pizza-order`, `treasure-island`)
+4. Run the Python file in your terminal or IDE:
 
 ---
 
