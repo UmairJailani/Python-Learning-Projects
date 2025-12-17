@@ -9,7 +9,6 @@ Each folder represents a different mini-project or concept I’ve practiced duri
 
 - Focused on **hands-on learning** through real Python projects
 - Covers beginner to intermediate topics such as:
-  <<<<<<< HEAD
 - Variables, loops, and conditionals
 - Functions and data structures
 - File handling and error management
@@ -29,7 +28,7 @@ Each folder represents a different mini-project or concept I’ve practiced duri
 | 5   | **PyPassword Generator**             | Generates strong, random passwords with customizable letters, numbers, and symbols. |
 |     | _(More projects will be added soon)_ | Stay tuned for more as I progress through the course!                               |
 
-=======
+---
 
 ## 🚀 Purpose
 
@@ -40,15 +39,12 @@ It’s a collection of small but meaningful projects to build real coding confid
 
 ## 🧠 How to Run a Project
 
-<<<<<<< HEAD
-
 1. Clone this repository:  
    https://github.com/UmairJailani/Python-Learning-Projects/tree/main
-2. # Open a project folder (e.g., bmi-calculator)
+2. Open a project folder (e.g., bmi-calculator)
 3. Clone this repository:
    https://github.com/UmairJailani/Python-Learning-Projects
 4. Open a project folder (e.g., `bmi-calculator`, `pizza-order`, `treasure-island`)
-   > > > > > > > 62966425bd8dc1e2c09c9ef5337096174392ceff
 5. Run the Python file in your terminal or IDE:
 
 📅 Learning Source
