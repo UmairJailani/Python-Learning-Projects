@@ -17,8 +17,6 @@ Each folder represents a different mini-project or concept I’ve practiced duri
 
 ## 🧩 Example Projects
 
-| Project | Description |
-
 | #   | Project                              | Description                                                                         |
 | --- | ------------------------------------ | ----------------------------------------------------------------------------------- |
 | 1   | **BMI Calculator**                   | Calculates BMI and automatically handles height input in meters or centimeters.     |
