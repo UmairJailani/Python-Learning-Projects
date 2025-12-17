@@ -15,6 +15,8 @@ Each folder represents a different mini-project or concept I’ve practiced duri
 - Web scraping and automation (coming soon!)
 - Basic game logic and GUI apps
 
+---
+
 ## 🧩 Example Projects
 
 | Project | Description |
@@ -46,6 +48,8 @@ It’s a collection of small but meaningful projects to build real coding confid
    https://github.com/UmairJailani/Python-Learning-Projects
 4. Open a project folder (e.g., `bmi-calculator`, `pizza-order`, `treasure-island`)
 5. Run the Python file in your terminal or IDE:
+
+---
 
 📅 Learning Source
 
