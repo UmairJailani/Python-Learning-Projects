@@ -39,11 +39,10 @@ It’s a collection of small but meaningful projects to build real coding confid
 
 ## 🧠 How to Run a Project
 
-1. Open a project folder (e.g., bmi-calculator)
-2. Clone this repository:
+1. Clone this repository:
    https://github.com/UmairJailani/Python-Learning-Projects
-3. Open a project folder (e.g., `bmi-calculator`, `pizza-order`, `treasure-island`)
-4. Run the Python file in your terminal or IDE:
+2. Open a project folder (e.g., `bmi-calculator`, `pizza-order`, `treasure-island`)
+3. Run the Python file in your terminal or IDE:
 
 ---
 
